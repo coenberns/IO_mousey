@@ -4,3 +4,6 @@ If you want any help, you can contact me. Ask for my email if talking to Mario o
 
 Good luck and have fun,
 Coen
+
+
+NB. for the baseline voltages, there have been some adaptations and you may have to look into the files in M van Engelen to find and then load them to make sure that everything runs smoothly. For the moment, I cannot do this as I cannot get on the server (phone has been stolen and, therefore, I do not have the possibility to fill in an OTP). 
