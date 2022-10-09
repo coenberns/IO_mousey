@@ -6,4 +6,4 @@ Good luck and have fun,
 Coen
 
 
-NB. for the baseline voltages, there have been some adaptations and you may have to look into the files in M van Engelen to find and then load them to make sure that everything runs smoothly. For the moment, I cannot do this as I cannot get on the server (phone has been stolen and, therefore, I do not have the possibility to fill in an OTP). 
+NB. for the baseline voltages, there have been some adaptations and you may have to look into the files in M van Engelen to find and then load them to make sure that everything runs smoothly. For the moment, I cannot do this as I cannot get on the server (phone has been stolen and, therefore, I do not have the possibility to fill in an OTP). Therefore, the last two plots cannot be directly observed in the notebook in this repository. Another way, is to include them by rerunning simulations without spikes to obtain the baseline voltages.  
